@@ -1,9 +1,9 @@
-# Your Project Name
+# Coin-api
 
 A simple GoLang project for a RESTful API using MongoDB, mongo-driver, and chi.
 
 ## Table of Contents
-- [Your Project Name](#your-project-name)
+- [Coin-api](#coin-api)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Prerequisites](#prerequisites)
